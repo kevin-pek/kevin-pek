@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div display="flex" justify-content="space-between">
-  <img align="center" src="https://github-readme-stats-kevin-pek.vercel.app/api?username=kevin-pek&theme=tokyonight" />
-  <img align="center" src="https://github-readme-stats-kevin-pek.vercel.app/api/top-langs?username=kevin-pek&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-kevin-pek.vercel.app/api?username=kevin-pek&count_private=true" />
+  <img align="center" src="https://github-readme-stats-kevin-pek.vercel.app/api/top-langs?username=kevin-pek&count_private=true" />
 </div>
