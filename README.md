@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github-readme-stats-kevin-pek.vercel.app/api/pin/?username=kevin-pek&theme=tokyonight" />
-<img align="center" src="https://github-readme-stats-kevin-pek.vercel.app/api/top-langs/?username=kevin-pek&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats-kevin-pek.vercel.app/api?username=kevin-pek&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats-kevin-pek.vercel.app/api/top-langs?username=kevin-pek&theme=tokyonight" />
