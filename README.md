@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <h1>Hi, I'm Kevin. </h1>
-  <a href="www.linkedin.com/in/kevin-pek-yt">
+  <a href="https://www.linkedin.com/in/kevin-pek-yt">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
