@@ -20,8 +20,10 @@ Here are some ideas to get you started:
   <br />
   I love building software, especially if it solves problems or looks cool. Currently interested in Machine Learning and Information Retrieval. Studying Data Science and Computer Science at National University of Singapore.
 </div>
+<br /><div align="left">
+  <img width="50%" src="https://github-readme-stats-kevin-pek.vercel.app/api?username=kevin-pek&include_all_commits=true&count_private=true&theme=rose_pine" />
+</div>
 
-<div display="flex">
-  <img align="center" width="50%" src="https://github-readme-stats-kevin-pek.vercel.app/api?username=kevin-pek&include_all_commits=true&count_private=true&theme=rose_pine" />
-  <img align="center" width="40%" src="https://github-readme-stats-kevin-pek.vercel.app/api/top-langs?username=kevin-pek&langs_count=10&hide_progress=true&theme=rose_pine" />
+<div align="right">
+  <img width="40%" src="https://github-readme-stats-kevin-pek.vercel.app/api/top-langs?username=kevin-pek&langs_count=10&hide_progress=true&theme=rose_pine" />
 </div>
