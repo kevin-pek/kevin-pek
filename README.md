@@ -18,7 +18,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <br />
-  I love building software, especially if it solves problems or looks cool. Currently interested in Machine Learning and Information Retrieval. Studying Data Science and Computer Science at National University of Singapore.
+  I love building software, especially if it solves problems or looks cool. Currently interested in using AI and Machine Learning to solve complex problems. Studying Data Science and Computer Science at National University of Singapore.
 </div>
 <br />
 <table width="100%">
