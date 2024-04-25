@@ -13,12 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <h1>Hi, I'm Kevin. </h1>
-  <a href="https://www.linkedin.com/in/kevin-pek-yt">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  <h1>Hi, I'm Kevin. 👋</h1>
   <br />
-  I love building software, especially if it solves problems or looks cool. Currently interested in using AI and Machine Learning to solve complex problems. Studying Data Science and Computer Science at National University of Singapore.
+  I love building software that solves problems and anything cool. Currently interested in using AI and Machine Learning to solve complex problems. Studying Data Science and Computer Science at National University of Singapore.
 </div>
 <br />
 <table width="100%">
