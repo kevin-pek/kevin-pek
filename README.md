@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h1>Hi, I'm Kevin. 👋</h1>
   <br />
-  I love building software that solves problems and anything cool. Currently interested in using AI and Machine Learning to solve complex problems. Studying Data Science and Computer Science at National University of Singapore.
+  I love building software that solves problems and anything cool. Currently interested in using AI and Machine Learning to make lasting change. Final year student Data Science and Computer Science at National University of Singapore.
 </div>
 <br />
 <table width="100%">
