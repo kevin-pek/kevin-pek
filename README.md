@@ -18,6 +18,9 @@ Here are some ideas to get you started:
   I love building things that look cool or solves problems. Currently interested in using AI and Machine Learning to improve lives and solve real problems. Undergraduate student doing a double major in Data Science and Computer Science at National University of Singapore. Graduating Nov 2024.
 </div>
 <br />
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<br />
 <table width="100%">
   <tr>
     <td align="left" width="50%">
