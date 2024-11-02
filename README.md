@@ -21,20 +21,20 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 August 2024 - To: 30 October 2024
+From: 17 August 2024 - To: 31 October 2024
 
-Total Time: 284 hrs 44 mins
+Total Time: 290 hrs 7 mins
 
-Java          68 hrs 22 mins  ██████░░░░░░░░░░░░░░░░░░░   23.97 %
-C++           66 hrs 21 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.26 %
-Python        57 hrs 45 mins  █████░░░░░░░░░░░░░░░░░░░░   20.25 %
-TypeScript    53 hrs 1 min    ████▓░░░░░░░░░░░░░░░░░░░░   18.59 %
-Markdown      9 hrs 16 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-Rust          5 hrs 1 min     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-Text          4 hrs 33 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-Bash          3 hrs 27 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-C             3 hrs 17 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-Makefile      2 hrs 9 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Java          68 hrs 25 mins  ██████░░░░░░░░░░░░░░░░░░░   23.44 %
+C++           66 hrs 21 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.74 %
+Python        57 hrs 45 mins  █████░░░░░░░░░░░░░░░░░░░░   19.79 %
+TypeScript    55 hrs 38 mins  ████▓░░░░░░░░░░░░░░░░░░░░   19.07 %
+Markdown      10 hrs 38 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Rust          5 hrs 1 min     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Text          4 hrs 33 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+C             3 hrs 49 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+Bash          3 hrs 34 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Makefile      2 hrs 9 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
