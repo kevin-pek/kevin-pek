@@ -21,18 +21,18 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 August 2024 - To: 15 November 2024
+From: 17 August 2024 - To: 16 November 2024
 
-Total Time: 359 hrs 1 min
+Total Time: 364 hrs 58 mins
 
-C++           88 hrs 42 mins  ██████░░░░░░░░░░░░░░░░░░░   24.42 %
-Python        76 hrs 13 mins  █████▒░░░░░░░░░░░░░░░░░░░   20.99 %
-TypeScript    73 hrs 11 mins  █████░░░░░░░░░░░░░░░░░░░░   20.15 %
-Java          69 hrs 58 mins  ████▓░░░░░░░░░░░░░░░░░░░░   19.26 %
-Markdown      15 hrs 39 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-Rust          5 hrs 1 min     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-Text          4 hrs 33 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-Other         4 hrs 13 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+C++           93 hrs 9 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.23 %
+Python        76 hrs 13 mins  █████░░░░░░░░░░░░░░░░░░░░   20.65 %
+TypeScript    73 hrs 11 mins  █████░░░░░░░░░░░░░░░░░░░░   19.82 %
+Java          69 hrs 58 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.95 %
+Markdown      17 hrs 9 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+Rust          5 hrs 1 min     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Text          4 hrs 33 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Other         4 hrs 13 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
