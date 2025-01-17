@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h1>Hi, I'm Kevin. 👋</h1>
   <br />
-  I love building things that look cool or solves problems. Undergraduate student doing a double major in Data Science and Computer Science at National University of Singapore. Graduating Nov 2024.
+  I build random things I find cool or useful here.
 </div>
 <br />
 <!--START_SECTION:waka-->
