@@ -21,14 +21,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 August 2024 - To: 15 June 2025
+From: 17 August 2024 - To: 16 June 2025
 
-Total Time: 621 hrs 33 mins
+Total Time: 622 hrs 21 mins
 
-TypeScript    229 hrs 1 min   █████████░░░░░░░░░░░░░░░░   36.47 %
-Python        101 hrs 34 mins ████░░░░░░░░░░░░░░░░░░░░░   16.17 %
-C++           95 hrs 33 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.22 %
-Java          69 hrs 58 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
+TypeScript    229 hrs 50 mins █████████░░░░░░░░░░░░░░░░   36.55 %
+Python        101 hrs 34 mins ████░░░░░░░░░░░░░░░░░░░░░   16.15 %
+C++           95 hrs 33 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.20 %
+Java          69 hrs 58 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
 Go            26 hrs 9 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
 Markdown      22 hrs 10 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
 Bash          8 hrs 36 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
