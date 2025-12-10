@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 August 2024 - To: 07 December 2025
+From: 17 August 2024 - To: 08 December 2025
 
-Total Time: 677 hrs 52 mins
+Total Time: 683 hrs 20 mins
 
-TypeScript                 236 hrs 49 mins ████████▓░░░░░░░░░░░░░░░░   34.57 %
-Python                     118 hrs 5 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.24 %
-C++                        95 hrs 33 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.95 %
-Java                       69 hrs 58 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
-Go                         26 hrs 40 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-Markdown                   26 hrs 38 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-Bash                       10 hrs 32 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-Dart                       10 hrs 21 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-Other                      7 hrs 14 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+TypeScript                 236 hrs 49 mins ████████▓░░░░░░░░░░░░░░░░   34.29 %
+Python                     120 hrs 3 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.38 %
+C++                        95 hrs 33 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 %
+Java                       69 hrs 58 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
+Go                         26 hrs 40 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+Markdown                   26 hrs 38 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+Dart                       12 hrs 54 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+Bash                       10 hrs 44 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+SQL                        7 hrs 15 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 ```
 
 <!--END_SECTION:waka-->
